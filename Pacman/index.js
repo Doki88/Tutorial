@@ -1,4 +1,4 @@
-const canvas = document.querySelector('canvas')
+const canvas = document.querySelector('canvas') //komentar u DejanP
 const c = canvas.getContext('2d')
 
 const scoreEl = document.querySelector('#scoreEl')
