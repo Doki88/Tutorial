@@ -748,5 +748,12 @@ addEventListener('keyup', ({key}) => {
     }
 
  })
+ 
+//komentar neki
+//komentar neki jos nesto
+//komentar neki nesto novo
+//komentar na grani
+
+
 
  
